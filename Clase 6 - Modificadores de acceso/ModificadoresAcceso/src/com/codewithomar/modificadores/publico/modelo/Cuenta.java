@@ -1,4 +1,4 @@
-package com.codewithomar.modificadores.modelo;
+package com.codewithomar.modificadores.publico.modelo;
 
 public class Cuenta {
     //Declaración de atributos
